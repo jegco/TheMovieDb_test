@@ -27,7 +27,7 @@ import com.android.volley.toolbox.Volley;
 import com.example.jorgecaro.themoviedbtest.Controller.MainActivity;
 import com.example.jorgecaro.themoviedbtest.Model.Movie;
 import com.example.jorgecaro.themoviedbtest.Model.MoviesCollection;
-import com.example.jorgecaro.themoviedbtest.Preference.Constants;
+import com.example.jorgecaro.themoviedbtest.ConfigConstants.Constants;
 import com.example.jorgecaro.themoviedbtest.R;
 import com.example.jorgecaro.themoviedbtest.Views.Recycler.RecyclerViewAdapter;
 

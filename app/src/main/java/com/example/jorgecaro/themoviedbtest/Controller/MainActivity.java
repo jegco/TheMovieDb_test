@@ -7,7 +7,7 @@ import android.support.v7.widget.Toolbar;
 
 import com.example.jorgecaro.themoviedbtest.R;
 import com.example.jorgecaro.themoviedbtest.Controller.Fragments.MainFragment;
-import com.example.jorgecaro.themoviedbtest.Preference.Constants;
+import com.example.jorgecaro.themoviedbtest.ConfigConstants.Constants;
 
 public class MainActivity extends AppCompatActivity {
 
