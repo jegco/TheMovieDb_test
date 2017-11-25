@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Fragments;
+package com.example.jorgecaro.themoviedbtest.Controller.Fragments;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -24,12 +24,12 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.jorgecaro.themoviedbtest.MainActivity;
+import com.example.jorgecaro.themoviedbtest.Controller.MainActivity;
 import com.example.jorgecaro.themoviedbtest.Model.Movie;
 import com.example.jorgecaro.themoviedbtest.Model.MoviesCollection;
 import com.example.jorgecaro.themoviedbtest.Preference.Constants;
 import com.example.jorgecaro.themoviedbtest.R;
-import com.example.jorgecaro.themoviedbtest.Recycler.RecyclerViewAdapter;
+import com.example.jorgecaro.themoviedbtest.Views.Recycler.RecyclerViewAdapter;
 
 import org.json.JSONArray;
 import org.json.JSONException;

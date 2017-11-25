@@ -1,11 +1,12 @@
-package com.example.jorgecaro.themoviedbtest;
+package com.example.jorgecaro.themoviedbtest.Controller;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import com.example.jorgecaro.themoviedbtest.Fragments.MainFragment;
+import com.example.jorgecaro.themoviedbtest.R;
+import com.example.jorgecaro.themoviedbtest.Controller.Fragments.MainFragment;
 import com.example.jorgecaro.themoviedbtest.Preference.Constants;
 
 public class MainActivity extends AppCompatActivity {
