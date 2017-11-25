@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Views.ListView;
+package com.example.jorgecaro.themoviedbtest.View.ListView;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

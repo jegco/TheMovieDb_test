@@ -24,12 +24,12 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.jorgecaro.themoviedbtest.Views.ListView.ListViewAdapter;
+import com.example.jorgecaro.themoviedbtest.View.ListView.ListViewAdapter;
 import com.example.jorgecaro.themoviedbtest.Controller.MainActivity;
 import com.example.jorgecaro.themoviedbtest.Model.MovieDescription;
 import com.example.jorgecaro.themoviedbtest.Model.MoviesCollection;
 import com.example.jorgecaro.themoviedbtest.Model.Trailer;
-import com.example.jorgecaro.themoviedbtest.ConfigConstants.Constants;
+import com.example.jorgecaro.themoviedbtest.ConfigConstant.Constants;
 import com.example.jorgecaro.themoviedbtest.R;
 
 import org.json.JSONArray;

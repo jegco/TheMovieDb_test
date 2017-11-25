@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Views.Recycler;
+package com.example.jorgecaro.themoviedbtest.View.Recycler;
 
 import android.app.Activity;
 import android.content.Context;

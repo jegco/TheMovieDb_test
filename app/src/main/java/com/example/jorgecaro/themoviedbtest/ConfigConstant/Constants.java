@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.ConfigConstants;
+package com.example.jorgecaro.themoviedbtest.ConfigConstant;
 
 /**
  * Created by jorge caro on 11/24/2017.
