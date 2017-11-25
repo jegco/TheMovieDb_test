@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Controller.Fragments;
+package com.example.jorgecaro.themoviedbtest.ViewController.Fragments;
 
 import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
@@ -24,7 +24,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.jorgecaro.themoviedbtest.View.ListView.ListViewAdapter;
+import com.example.jorgecaro.themoviedbtest.ViewController.ListView.ListViewAdapter;
 import com.example.jorgecaro.themoviedbtest.MainActivity;
 import com.example.jorgecaro.themoviedbtest.Model.MovieDescription;
 import com.example.jorgecaro.themoviedbtest.Model.MoviesCollection;

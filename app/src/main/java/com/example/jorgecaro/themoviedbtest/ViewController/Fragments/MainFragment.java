@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Controller.Fragments;
+package com.example.jorgecaro.themoviedbtest.ViewController.Fragments;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -29,7 +29,7 @@ import com.example.jorgecaro.themoviedbtest.Model.Movie;
 import com.example.jorgecaro.themoviedbtest.Model.MoviesCollection;
 import com.example.jorgecaro.themoviedbtest.ConfigConstant.Constants;
 import com.example.jorgecaro.themoviedbtest.R;
-import com.example.jorgecaro.themoviedbtest.View.Recycler.RecyclerViewAdapter;
+import com.example.jorgecaro.themoviedbtest.ViewController.Recycler.RecyclerViewAdapter;
 
 import org.json.JSONArray;
 import org.json.JSONException;
