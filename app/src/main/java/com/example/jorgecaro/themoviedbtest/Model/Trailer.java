@@ -4,6 +4,10 @@ package com.example.jorgecaro.themoviedbtest.Model;
  * Created by jorge caro on 11/24/2017.
  */
 
+/*
+* Class Trailer, part of the model
+* */
+
 public class Trailer {
     private String name;
     private String key;

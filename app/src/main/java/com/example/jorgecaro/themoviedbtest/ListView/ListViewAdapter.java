@@ -18,6 +18,7 @@ import java.util.ArrayList;
  * Created by jorge caro on 11/24/2017.
  */
 
+
 public class ListViewAdapter extends ArrayAdapter<Trailer> {
 
     private ArrayList<Trailer> trailers;
