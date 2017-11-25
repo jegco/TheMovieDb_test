@@ -36,33 +36,16 @@ public class Movie {
         return vote_count;
     }
 
-    public void setVote_count(int vote_count) {
-        this.vote_count = vote_count;
-    }
-
     public Bitmap getPoster_path() {
         return poster_path;
-    }
-
-    public void setPoster_path(Bitmap poster_path) {
-        this.poster_path = poster_path;
     }
 
     public String getTitle() {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-
     public double getVote_average() {
         return vote_average;
-    }
-
-    public void setVote_average(double vote_average) {
-        this.vote_average = vote_average;
     }
 
     public MovieDescription getMovieDescription() {
