@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheMovieDbTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="movieName">Movie title</string>
+    <string name="vote_average">Vote average</string>
+    <string name="loading">Loading Movie info, please wait....</string>
+    <string name="app_title">moviebd test</string>
+    <string name="home">Home</string>
+    <string name="api_key">185e49956bb95f11604e6659ec856903</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+</resources>
