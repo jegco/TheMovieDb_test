@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Controller;
+package com.example.jorgecaro.themoviedbtest;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;

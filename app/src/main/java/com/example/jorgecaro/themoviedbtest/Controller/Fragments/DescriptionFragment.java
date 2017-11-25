@@ -25,7 +25,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.example.jorgecaro.themoviedbtest.View.ListView.ListViewAdapter;
-import com.example.jorgecaro.themoviedbtest.Controller.MainActivity;
+import com.example.jorgecaro.themoviedbtest.MainActivity;
 import com.example.jorgecaro.themoviedbtest.Model.MovieDescription;
 import com.example.jorgecaro.themoviedbtest.Model.MoviesCollection;
 import com.example.jorgecaro.themoviedbtest.Model.Trailer;

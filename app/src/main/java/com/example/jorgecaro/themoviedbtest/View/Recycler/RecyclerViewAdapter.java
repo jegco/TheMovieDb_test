@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.jorgecaro.themoviedbtest.Controller.Fragments.DescriptionFragment;
-import com.example.jorgecaro.themoviedbtest.Controller.MainActivity;
+import com.example.jorgecaro.themoviedbtest.MainActivity;
 import com.example.jorgecaro.themoviedbtest.Model.Movie;
 import com.example.jorgecaro.themoviedbtest.R;
 

@@ -1,4 +1,4 @@
-package com.example.jorgecaro.themoviedbtest.Controller;
+package com.example.jorgecaro.themoviedbtest;
 
 import android.content.Intent;
 import android.os.Bundle;
